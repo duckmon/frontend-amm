@@ -1,15 +1,15 @@
 {
-  "short_name": "GooseFinance",
-  "name": "GooseFinance",
+  "short_name": "Duck.Money",
+  "name": "🦆 Duck.Money - A quacking blast on Binance Smart Chain (BSC)",
+  "description": "DeFi is like a hurricane here at Duck Money. Tokens, Farming, Pool Rewards – it’s a duck blur.",
   "icons": [
     {
-      "src": "./logo.png",
-      "sizes": "160x160",
+      "src": "favicon.ico",
       "type": "image/png",
-      "purpose": "any maskable"
+      "sizes": "256x256"
     }
   ],
-  "orientation": "portrait",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
