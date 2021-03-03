@@ -63,13 +63,13 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
+        label: 'Documentation',
+        href: 'https://docs.duck.money',
+      },
+      {
         label: "Github",
         href: "https://github.com/duckmon/",
       },
-      // {
-      //   label: "Docs",
-      //   href: "https://goosedefi.gitbook.io/goose-finance/",
-      // },
       {
         label: "Blog",
         href: "https://medium.com/duckmoneydefi",
