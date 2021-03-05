@@ -13,6 +13,13 @@
     {
       "name": "Duck Money Token",
       "symbol": "QUACK",
+      "address": "0x91918f3EC1F030E2b1Bd2B3aaEcF6760d46258d9",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Duck Money Token (v1 legacy)",
+      "symbol": "QUACK (v1)",
       "address": "0xbe2aa50783c59b29d397ad45f6b6069ac139124f",
       "chainId": 56,
       "decimals": 18

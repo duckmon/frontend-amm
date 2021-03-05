@@ -54,7 +54,7 @@ export const BASES_TO_TRACK_LIQUIDITY_FOR: ChainTokenList = {
 export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } = {
   [ChainId.MAINNET]: [
     [
-      new Token(ChainId.MAINNET, '0xbe2aa50783c59b29d397ad45f6b6069ac139124f', 18, 'QUACK', 'Duck Money Token'),
+      new Token(ChainId.MAINNET, '0x91918f3EC1F030E2b1Bd2B3aaEcF6760d46258d9', 18, 'QUACK', 'Duck Money Token'),
       new Token(ChainId.MAINNET, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB')
     ],
     [BUSD, USDT],
